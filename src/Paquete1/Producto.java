@@ -8,7 +8,7 @@ import java.math.BigDecimal;
 
 /**
  *
- * @author Jonatan
+ * @author Jonatan and Gabo
  */
 public class Producto {
     private Integer codigo;

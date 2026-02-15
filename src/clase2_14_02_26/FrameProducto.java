@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Jonatan
+ * @author Jonatan and Gabo
  */
 public class FrameProducto extends javax.swing.JFrame {
     

@@ -7,7 +7,7 @@ package clase2_14_02_26;
 import java.math.BigDecimal;
 /**
  *
- * @author Jonatan
+ * @author Jonatan and Gabo
  */
 public class Carro {
 // Los atributos de calses protected,

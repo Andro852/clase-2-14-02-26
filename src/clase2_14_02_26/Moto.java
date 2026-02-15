@@ -6,7 +6,7 @@ package clase2_14_02_26;
 
 /**
  *
- * @author Jonatan
+ * @author Jonatan and Gabo
  */
 public class Moto {
 // Las variables de la calse son default

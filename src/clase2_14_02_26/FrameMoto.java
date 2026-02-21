@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Jonatan
+ * @author Jonatan and Gabo
  */
 public class FrameMoto extends javax.swing.JFrame {
     
